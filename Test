@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <style>
+      body {
+        background-color: #3F3F3F;
+        color: white;
+        font-family: Arial, sans-serif;
+      }
+      
+      .header {
+        text-align: center;
+        padding: 50px 0;
+      }
+      
+      .header h1 {
+        font-size: 3em;
+        font-weight: bold;
+      }
+      
+      .header p {
+        font-size: 1.5em;
+        margin-top: 20px;
+      }
+      
+      .card {
+        background-color: white;
+        color: #3F3F3F;
+        width: 60%;
+        margin: 50px auto;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px #BBBBBB;
+      }
+      
+      .card h2 {
+        font-size: 2em;
+        font-weight: bold;
+        margin-top: 0;
+      }
+      
+      .card p {
+        font-size: 1.25em;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Cool Website</h1>
+      <p>This is a cool website made with HTML, CSS, and JavaScript</p>
+    </div>
+    <div class="card">
+      <h2>Welcome!</h2>
+      <p>This website is here to show you how cool HTML, CSS, and JavaScript can be!</p>
+    </div>
+  </body>
+</html>
